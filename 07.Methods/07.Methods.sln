@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Methods", "07.Methods.csproj", "{635253BA-1FFF-4534-9E6B-EEE29FC67C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SignOfIntegerNumbers", "..\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers.csproj", "{40106F1E-73B5-497F-BE6C-2D5515F7DB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635253BA-1FFF-4534-9E6B-EEE29FC67C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635253BA-1FFF-4534-9E6B-EEE29FC67C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635253BA-1FFF-4534-9E6B-EEE29FC67C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635253BA-1FFF-4534-9E6B-EEE29FC67C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40106F1E-73B5-497F-BE6C-2D5515F7DB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40106F1E-73B5-497F-BE6C-2D5515F7DB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40106F1E-73B5-497F-BE6C-2D5515F7DB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40106F1E-73B5-497F-BE6C-2D5515F7DB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC631B1-B4BB-43CA-BADD-A7704426472D}
+	EndGlobalSection
+EndGlobal
