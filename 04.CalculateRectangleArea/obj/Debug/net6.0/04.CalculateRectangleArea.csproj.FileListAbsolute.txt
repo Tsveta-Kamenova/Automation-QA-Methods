@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\obj\Debug\net6.0\refint\04.CalculateRectangleArea.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\04.CalculateRectangleArea\obj\Debug\net6.0\ref\04.CalculateRectangleArea.dll

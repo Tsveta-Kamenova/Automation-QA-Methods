@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\bin\Debug\net6.0\05. RepeatString.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\bin\Debug\net6.0\05. RepeatString.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\bin\Debug\net6.0\05. RepeatString.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\bin\Debug\net6.0\05. RepeatString.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\bin\Debug\net6.0\05. RepeatString.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\obj\Debug\net6.0\05. RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\obj\Debug\net6.0\05. RepeatString.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\obj\Debug\net6.0\05. RepeatString.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\obj\Debug\net6.0\05. RepeatString.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\obj\Debug\net6.0\05. RepeatString.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\obj\Debug\net6.0\refint\05. RepeatString.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\obj\Debug\net6.0\05. RepeatString.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\obj\Debug\net6.0\05. RepeatString.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\05. RepeatString\obj\Debug\net6.0\ref\05. RepeatString.dll

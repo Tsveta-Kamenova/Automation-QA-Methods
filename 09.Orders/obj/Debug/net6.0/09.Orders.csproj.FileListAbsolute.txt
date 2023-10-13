@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\bin\Debug\net6.0\09.Orders.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\bin\Debug\net6.0\09.Orders.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\bin\Debug\net6.0\09.Orders.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\bin\Debug\net6.0\09.Orders.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\bin\Debug\net6.0\09.Orders.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\obj\Debug\net6.0\09.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\obj\Debug\net6.0\09.Orders.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\obj\Debug\net6.0\09.Orders.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\obj\Debug\net6.0\09.Orders.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\obj\Debug\net6.0\09.Orders.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\obj\Debug\net6.0\refint\09.Orders.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\obj\Debug\net6.0\09.Orders.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\obj\Debug\net6.0\09.Orders.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\09.Orders\obj\Debug\net6.0\ref\09.Orders.dll

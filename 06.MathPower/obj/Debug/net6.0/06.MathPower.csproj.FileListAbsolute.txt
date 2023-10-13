@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\bin\Debug\net6.0\06.MathPower.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\bin\Debug\net6.0\06.MathPower.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\bin\Debug\net6.0\06.MathPower.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\bin\Debug\net6.0\06.MathPower.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\bin\Debug\net6.0\06.MathPower.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\obj\Debug\net6.0\06.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\obj\Debug\net6.0\06.MathPower.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\obj\Debug\net6.0\06.MathPower.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\obj\Debug\net6.0\06.MathPower.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\obj\Debug\net6.0\06.MathPower.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\obj\Debug\net6.0\refint\06.MathPower.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\obj\Debug\net6.0\06.MathPower.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\obj\Debug\net6.0\06.MathPower.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\06.MathPower\obj\Debug\net6.0\ref\06.MathPower.dll
