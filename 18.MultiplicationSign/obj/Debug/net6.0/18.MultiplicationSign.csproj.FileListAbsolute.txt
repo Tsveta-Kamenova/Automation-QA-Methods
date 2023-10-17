@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\obj\Debug\net6.0\18.MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\obj\Debug\net6.0\18.MultiplicationSign.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\obj\Debug\net6.0\18.MultiplicationSign.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\obj\Debug\net6.0\18.MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\bin\Debug\net6.0\18.MultiplicationSign.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\bin\Debug\net6.0\18.MultiplicationSign.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\bin\Debug\net6.0\18.MultiplicationSign.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\bin\Debug\net6.0\18.MultiplicationSign.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\bin\Debug\net6.0\18.MultiplicationSign.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\obj\Debug\net6.0\18.MultiplicationSign.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\obj\Debug\net6.0\refint\18.MultiplicationSign.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\obj\Debug\net6.0\18.MultiplicationSign.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\obj\Debug\net6.0\18.MultiplicationSign.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\07_Methods\18.MultiplicationSign\obj\Debug\net6.0\ref\18.MultiplicationSign.dll
